@@ -1,0 +1,6 @@
+Line 288: Class WINSOCKLib.UDP of control UDP was not a loaded control class.
+Line 291: The property name _ExtentX in UDP is invalid.
+Line 292: The property name _ExtentY in UDP is invalid.
+Line 293: The property name RemoteHost in UDP is invalid.
+Line 294: The property name RemotePort in UDP is invalid.
+Line 295: The property name LocalPort in UDP is invalid.
